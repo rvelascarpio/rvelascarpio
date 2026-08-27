@@ -1,4 +1,4 @@
-![Header](./github-header-banner (1).png)
+![Header](./github-header-banner.png)
 
 # 💫 About Me:
 🔭 I’m currently working on a multi-agent system to help me with my fantasy leagues<br>👯 I’m looking to collaborate on data projects using dbt<br>🤝 I’m looking for help with debugging agent workflows<br>🌱 I’m currently learning about agents<br>💬 Ask me about joining event and tracking tables in football matches<br>⚡ Fun fact: Aspiring pizzaiolo 🍕
